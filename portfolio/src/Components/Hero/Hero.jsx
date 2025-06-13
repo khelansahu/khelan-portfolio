@@ -9,7 +9,7 @@ const Hero = () => {
         {/* profile image */}
         <img src={profile} alt="" />
         <h1><span>I'am khelan sahu,</span> Full Stack Developer based in India.</h1>
-        <p>Hands-on experience in Java (Core + J2EE), SQL, React.js, and Hibernate.  Eager to apply my problem-solving and coding skills in a collaborative development environment.</p>
+        <p>Strong fundamentals on Java(Core + J2EE), SQL, React.js, and working with framwork like Spring Boot , Hibernate .  Eager to apply my problem-solving and coding skills in a collaborative development environment.</p>
         <div className="hero-action">
             <div className="hero-connect">
               <AnchorLink className='anchor-link' offset={50} href='#contact'>Connect With Me</AnchorLink>

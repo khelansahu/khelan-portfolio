@@ -35,11 +35,15 @@ const About = () => {
               <hr style={{ width: "50%" }} />
             </div>
             <div className="about-skill">
-              <p>Core Java</p>
+              <p>Java(J2SE + J2EE)</p>
               <hr style={{ width: "55%" }} />
             </div>
             <div className="about-skill">
-              <p>Advance Java</p>
+              <p>Spring Boot</p>
+              <hr style={{ width: "60%" }} />
+            </div>
+             <div className="about-skill">
+              <p>Hibernate</p>
               <hr style={{ width: "60%" }} />
             </div>
             <div className="about-skill">
