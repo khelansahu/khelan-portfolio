@@ -35,7 +35,7 @@ const About = () => {
               <hr style={{ width: "50%" }} />
             </div>
             <div className="about-skill">
-              <p>Java(J2SE + J2EE)</p>
+              <p>Java</p>
               <hr style={{ width: "55%" }} />
             </div>
             <div className="about-skill">
